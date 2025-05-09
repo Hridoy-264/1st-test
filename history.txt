@@ -1,0 +1,37 @@
+    1  git --version
+    2  pwd
+    3  ls -l
+    4  cd Documents/
+    5  ls -l
+    6  git status
+    7  git add .
+    8  git commit -m "initial commmit"
+    9  git status
+   10  git config --global user.name
+   11* 
+   12  git config --global user.email "hridoyq264@gmail.com"
+   13  git config --global user.name 
+   14  git config --global user.name "Hridoy264"
+   15  git config --global user.name 
+   16  git config --global user.email "hridoyq264@gmail.com"
+   17  git config --global user.email
+   18  git config --global user.name 
+   19  git config --global user.name 
+   20  git status
+   21  git add .
+   22  git commit
+   23  git log -1
+   24  git status
+   25  git add .
+   26  git commit -m "initial commit 3"
+   27  git status
+   28  git push
+   29  git push
+   30  git status
+   31  git face
+   32  git fatch
+   33  git fetch
+   34  git pull
+   35  git add .
+   36  git commit -m "PUsh and pull"
+   37  history > history.txt
